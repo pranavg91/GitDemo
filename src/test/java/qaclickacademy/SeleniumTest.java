@@ -7,6 +7,8 @@ public class SeleniumTest {
 
 	public void browserauto() {
 		System.out.println("browserauto");
+		System.out.println("post");
+		System.out.println("post");
 	}
 
 	@Test
